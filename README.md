@@ -1,6 +1,6 @@
 # jExchange
 University project of operating system.
-Degree in IT for management.
+Degree in IT for management. @UNIBO
 
 ###### jExchange è un sistema distribuito di simulazione del mercato finanziario.
 
