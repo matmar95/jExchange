@@ -1,8 +1,8 @@
 # jExchange
-University project of operating system
+University project of operating system.
+Degree in IT for management.
 
-
-jExchange è un sistema distribuito di simulazione del mercato finanziario.
+###### jExchange è un sistema distribuito di simulazione del mercato finanziario.
 
 ## Demo
 Per eseguire il progetto è necessario mandare in esecuzione il Market e l’ordine di avvio del Playere dello Stock è irrilevante.
